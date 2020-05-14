@@ -1,0 +1,28 @@
+{
+    "global-title": "The heavy metal Company",
+    "description": "How to use PHP to create a dynamic website",
+    "keywords": "php,powercoders,BUGTI,etc",
+    "outhor": "KhudaBakhsh",
+
+    "pages": {
+
+        "index": {
+
+            "title": "Where hardest stuff is possible",
+            "menu": "HOME"
+        },
+        "work": {
+
+            "title": "What are you doing today?",
+            "menu": "WORK"
+        },
+
+        "contact": {
+
+            "title": "Hey, man whats up?",
+            "menu": "CONTACT"
+        }
+
+
+    }
+}
